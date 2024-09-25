@@ -1,0 +1,17 @@
+body {
+    background-color: #68c3d4;
+  }
+  h1 {
+    background-color: white;
+    color: #ffe8d1;
+  }
+  h2 {
+    color: #854632;
+  }
+  ol {
+    color: #568ea3;
+  }
+  .bold {
+      font-weight: bold;
+      color: black;
+  } 
